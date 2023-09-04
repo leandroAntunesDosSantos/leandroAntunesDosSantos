@@ -17,3 +17,4 @@ Javascript, Node.js, SQL, PostgreSQL, Git
 
 ![Principais linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=leandroAntunesDosSantos&theme=dracula&hide_border=true&custom_title=Principais%20%linguagens)
 
+![Snake animation](https://github.com/leandroAntunesDosSantos/leandroAntunesDosSantos/blob/output/github-contribution-grid-snake.svg)
