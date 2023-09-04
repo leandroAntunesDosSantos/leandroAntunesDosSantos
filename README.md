@@ -14,6 +14,6 @@ Javascript, Node.js, SQL, PostgreSQL, Git
 
 > "Você só vence amanhã se não desistir hoje."
 
-![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
 
 ![Principais linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=leandroAntunesDosSantos&theme=dracula&hide_border=true&custom_title=Principais%20%linguagens)
+
