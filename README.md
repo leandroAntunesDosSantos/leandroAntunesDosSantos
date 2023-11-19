@@ -20,13 +20,13 @@ Meu nome é Leandro Antunes sou **Desenvolvedor Back-End** atualmente faço part
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
     <h2 align="center"> :large_blue_circle: Hard Skills:</h2>
-    <img align="center" height="50" width="60" alt="js-icon"  src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+    <img align="center" height="50" width="60" alt="java-plain"  src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+    <img align="center" height="50" width="60" alt="js-icon"  src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg">
     <img align="center" height="50" width="60" alt="typescript-icon" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
     <img align="center" height="50" width="60" alt="nodejs-icon" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
     <img align="center" height="50" width="60" alt="mysql-icon" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
     <img align="center" height="50" width="60" alt="postgreesql" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg">
     <img align="center" height="50" width="60" alt="git-icon" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg">
-    <img align="center" height="50" width="60" alt="github-icon" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
     </div>
 
 <br>
