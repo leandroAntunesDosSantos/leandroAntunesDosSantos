@@ -24,7 +24,7 @@ Meu nome é Leandro Antunes sou **Desenvolvedor Back-End** formado pela [Cubos A
     <img align="center" height="50" width="60" alt="js-icon"  src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg">
     <img align="center" height="50" width="60" alt="typescript-icon" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
     <img align="center" height="50" width="60" alt="nodejs-icon" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
-    <img align="center" height="50" width="60" alt="mysql-icon" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
+    <img align="center" height="50" width="60" alt="c-icon" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
     <img align="center" height="50" width="60" alt="postgreesql" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg">
     <img align="center" height="50" width="60" alt="git-icon" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg">
     </div>
