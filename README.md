@@ -3,7 +3,7 @@
 
 
 
-Meu nome é Leandro Antunes sou **Desenvolvedor Back-End** atualmente faço parte da turma back-end da [Cubos Academy](https://cubos.academy/) em parceria com [Ifood](https://www.ifood.com.br/).
+Meu nome é Leandro Antunes sou **Desenvolvedor Back-End** formado pela [Cubos Academy](https://cubos.academy/) em parceria com [Ifood](https://www.ifood.com.br/). Atualmente estou cursando engenharia da computação na [UTFPR](https://www.utfpr.edu.br/).
 
 <br>
 
