@@ -3,7 +3,7 @@
 
 
 
-  Meu nome é Leandro Antunes sou **Desenvolvedor Back-End**. Atualmente estou cursando Engenharia de Computação na [Universidade Tecnológica Federal do Paraná](https://www.utfpr.edu.br/) e Estudando Computação em Nuvem na [Escola da Nuvem - AWS](https://escoladanuvem.org/).  
+  Meu nome é Leandro Antunes sou **Desenvolvedor Back-End**. Atualmente estou cursando Engenharia de Computação na [Universidade Tecnológica Federal do Paraná](https://www.utfpr.edu.br/). 
 
 <br>
 
