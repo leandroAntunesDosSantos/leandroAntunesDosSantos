@@ -35,6 +35,6 @@
 
 ![Principais linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=leandroAntunesDosSantos&theme=dracula&hide_border=true&custom_title=Principais%20%linguagens)
 
-> "Você só vence amanhã se não desistir hoje."
+
 
 ![snake gif](https://github.com/leandroAntunesDosSantos/leandroAntunesDosSantos/blob/output/github-contribution-grid-snake-dark.svg)
