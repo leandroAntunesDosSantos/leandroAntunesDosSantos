@@ -2,8 +2,10 @@
   <h1 align="center">Bem vindo(a) ao meu perfil :blush: </h1>
 
 
-
-  Meu nome é Leandro Antunes sou **Desenvolvedor Back-End**. Atualmente estou cursando Engenharia de Computação na [Universidade Tecnológica Federal do Paraná](https://www.utfpr.edu.br/).  
+<div  align="center"> 
+  <h2 align="center">Meu nome é Leandro Antunes sou Desenvolvedor Back-End e Mobile. </h2>
+ </div>
+    
 
 <br>
 
@@ -21,12 +23,14 @@
     <img align="left" height="250" alt="coding-time" src="code.gif">
     <h2 align="center"> :large_blue_circle: Hard Skills:</h2>
     <img align="center" height="50" width="60" alt="java-plain"  src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-    <img align="center" height="50" width="60" alt="js-icon"  src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg">
     <img align="center" height="50" width="60" alt="typescript-icon" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
     <img align="center" height="50" width="60" alt="nodejs-icon" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
-    <img align="center" height="50" width="60" alt="c-icon" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
-    <img align="center" height="50" width="60" alt="postgreesql" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg">
-    <img align="center" height="50" width="60" alt="git-icon" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg">
+    <img align="center" height="50" width="60" alt="go-icon" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg">
+    <img align="center" height="50" width="60" alt="js-icon"  src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg">
+    <img align="center" height="50" width="60" alt="kotlin-icon" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
+    <img align="center" height="50" width="60" alt="android-icon" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg">
+    <img align="center" height="50" width="60" alt="postgresql" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg">
+    <img align="center" height="50" width="60" alt="sqlite-icon" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg">
     </div>
 
 <br>
