@@ -35,11 +35,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
-      # Copy assets to dist directory
-      - name: Copy assets
-        run: |
-          mkdir -p dist/assets
-          cp -r assets/* dist/assets/
           
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
