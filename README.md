@@ -1,6 +1,8 @@
-
   <h1 align="center">Bem vindo(a) ao meu perfil :blush: </h1>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/leandroAntunesDosSantos/leandroAntunesDosSantos/output/assets/profile.png" width="200" alt="Leandro Antunes">
+</div>
 
 <div  align="center"> 
   <h2 align="center">Meu nome é Leandro Antunes sou Desenvolvedor Back-End e Mobile. </h2>

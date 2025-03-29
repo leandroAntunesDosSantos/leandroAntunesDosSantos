@@ -3,7 +3,7 @@ name: generate animation
 on:
   # run automatically every 24 hours
   schedule:
-    - cron: "0 */24 * * *" 
+    - cron: "0 0 * * *"
   
   # allows to manually run the job at any time
   workflow_dispatch:
@@ -21,6 +21,9 @@ jobs:
     timeout-minutes: 10
     
     steps:
+      # Checkout repository
+      - uses: actions/checkout@v3
+      
       # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
@@ -32,6 +35,11 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
+      # Copy assets to dist directory
+      - name: Copy assets
+        run: |
+          mkdir -p dist/assets
+          cp -r assets/* dist/assets/
           
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
